@@ -1,3 +1,8 @@
+This project was a walkthrough of JS Mastery's responsive restauraunt walkthrough. 
+
+It is deployed and hosted  at: https://restaurant.reactprojectsdavidk.xyz/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
